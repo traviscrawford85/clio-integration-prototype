@@ -12,3 +12,8 @@ This is a prototype web application designed to demonstrate custom functionality
 - **Material UI**: UI component library for a clean, minimal design.
 - **Axios**: HTTP client for making API requests.
 - **Clio API**: For accessing legal matters and custom fields.
+
+## Author
+
+- **Travis Crawford**  
+  GitHub: traviscrawford85 (https://github.com/traviscrawford85)
