@@ -12,9 +12,3 @@ This is a prototype web application designed to demonstrate custom functionality
 - **Material UI**: UI component library for a clean, minimal design.
 - **Axios**: HTTP client for making API requests.
 - **Clio API**: For accessing legal matters and custom fields.
-- 
-### Explanation:
-- **Code blocks** are enclosed in triple backticks (```) with `bash` or `env` as optional language identifiers.
-- **Bold text** is used for emphasizing technologies and key points.
-
-You can copy and paste this into your `README.md` file, and it will display properly on GitHub. Let me know if you need more adjustments!
