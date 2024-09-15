@@ -19,6 +19,12 @@ This is a prototype web application designed to demonstrate custom functionality
 - **SQLite**: Local database for caching matter data and improving performance for read-only operations.
 - **Clio API**: For accessing legal matters, custom fields, and updating data.
 
+## Author
+
+- **Travis Crawford**  
+  GitHub: [traviscrawford85](https://github.com/traviscrawford85)
+
+
 ## Setup and Installation
 
 1. **Clone the repository:**
