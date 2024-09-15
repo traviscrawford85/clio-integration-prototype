@@ -27,7 +27,56 @@ This is a prototype web application designed to demonstrate custom functionality
 
 ## Setup and Installation
 
-1. **Clone the repository:**
+### 1. Clone the Repository
+
+To get started, first clone the repository:
+
+```bash
+git clone https://github.com/traviscrawford85/clio-integration-prototype.git
+cd clio-integration-prototype
+```
+
+### 2. Backend Setup
+
+   1. Navigate to the backend folder:
    ```bash
-   git clone https://github.com/traviscrawford85/clio-integration-prototype.git
-   cd clio-integration-prototype
+   cd backend
+   ```
+   2.  Install dependancies:
+   ```bash
+   npm install
+   ```
+   3. Start the backend server:
+   ```bash
+   node index.js
+   ```
+   4. The backend will be running at:
+   ```bash
+   http://localhost:5000
+   ```
+
+### 3. Frontend Setup
+
+   1. Navigate to the frontend folder:
+   ```bash
+   cd frontend
+   ```
+   2. Install dependancies:
+   ```bash
+   npm install
+   ```
+   3. Start the frontend server
+   ```bash
+   npm start
+   ```
+   4. The frontend will be available at:
+   ```bash
+   http://localhost:3000
+   ```
+   
+
+
+
+
+
+
