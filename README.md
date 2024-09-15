@@ -16,4 +16,4 @@ This is a prototype web application designed to demonstrate custom functionality
 ## Author
 
 - **Travis Crawford**  
-  GitHub: traviscrawford85 (https://github.com/traviscrawford85)
+  GitHub: [traviscrawford85](https://github.com/traviscrawford85)
